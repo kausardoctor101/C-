@@ -1,0 +1,11 @@
+G:\C# projects\validations\ConsoleApp1\bin\Debug\netcoreapp2.1\validations.deps.json
+G:\C# projects\validations\ConsoleApp1\bin\Debug\netcoreapp2.1\validations.runtimeconfig.json
+G:\C# projects\validations\ConsoleApp1\bin\Debug\netcoreapp2.1\validations.runtimeconfig.dev.json
+G:\C# projects\validations\ConsoleApp1\bin\Debug\netcoreapp2.1\validations.dll
+G:\C# projects\validations\ConsoleApp1\bin\Debug\netcoreapp2.1\validations.pdb
+G:\C# projects\validations\ConsoleApp1\obj\Debug\netcoreapp2.1\validations.csprojAssemblyReference.cache
+G:\C# projects\validations\ConsoleApp1\obj\Debug\netcoreapp2.1\validations.csproj.CoreCompileInputs.cache
+G:\C# projects\validations\ConsoleApp1\obj\Debug\netcoreapp2.1\validations.AssemblyInfoInputs.cache
+G:\C# projects\validations\ConsoleApp1\obj\Debug\netcoreapp2.1\validations.AssemblyInfo.cs
+G:\C# projects\validations\ConsoleApp1\obj\Debug\netcoreapp2.1\validations.dll
+G:\C# projects\validations\ConsoleApp1\obj\Debug\netcoreapp2.1\validations.pdb
